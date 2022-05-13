@@ -1,7 +1,7 @@
-# CS171-CS-Introduction
+# Year2 Algorithm Projects
 
-Projects done in introductory CS course
-- only utilizes Java language
+Different projects done that showcase
+- Java language proficiency
 - Object oriented programming
 - Sorting
 - Mix of all programming skills...
